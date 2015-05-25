@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PEA Phase Indicator Demo</string>
+
+    <string name="title_section1">HOME</string>
+    <string name="title_section2">METER INFO</string>
+    <string name="title_section3">DOWNLOAD</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">SEARCH FOR METER</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
